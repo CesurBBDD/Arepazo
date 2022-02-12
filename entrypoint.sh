@@ -1,2 +1,2 @@
-/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 12345Ab## -d master -i Create_database.sql & /opt/mssql/bin/sqlservr
+/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P 12345Ab## -d master -i arepazo.sql & /opt/mssql/bin/sqlservr
 
